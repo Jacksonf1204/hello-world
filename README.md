@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hello, this is my first repository. I am learning how to use github for programming in robotics.
